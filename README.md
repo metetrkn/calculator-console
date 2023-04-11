@@ -1,20 +1,23 @@
- !!!PYTHON CONSOLE CALCULATOR!!!
+# PYTHON CONSOLE CALCULATOR
     
-# DESCRIPTION 
-This project is python3 based console calculator
-Although project created simply on eval func, program safety ensured with input control system
-Last result saved on screen, if user wishes, can continue calculate regarding last result
+## DESCRIPTION 
 
-# HOW to USE
-Ensure terminal/console is on the same directory where file located and run next command
+ This project is python3 based console calculator
+ Although project created simply on eval func, program safety ensured with input control system
+ Last result saved on screen, if user wishes, can continue calculate regarding last result
 
-for Linux users;
-$ python3 calculator-console.py
+## HOW to USE
+ 
+ Ensure terminal/console is on the same directory where file located and run next command
 
-for Windows users;
-C:\> python calculator-console.py
+ for Linux users;
+ $ python3 calculator-console.py
 
-# CREDITS
-mete turkan
-linkedIn  : mete turkan
-Inst      : m_trkn46
+ for Windows users;
+ C:\> python calculator-console.py
+
+## CREDITS
+
+ mete turkan
+ linkedIn  : mete turkan
+ Inst      : m_trkn46
